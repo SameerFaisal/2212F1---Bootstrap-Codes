@@ -1,0 +1,27 @@
+/* h1{
+    font-family: 'Times New Roman', Times, serif;
+} */
+/* .navbar{
+    background-color: black !important;
+} */
+/* .nav-link,.navbar-text{
+    color: white!important;
+    font-size: 16px;
+} */
+
+.slider-img{
+    height: 400px;
+    width: 100%;
+    opacity: 0.6;
+}
+.slider-text{
+    color:black;
+}
+#logo{
+    width: 40%;
+}
+.pro{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
